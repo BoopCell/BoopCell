@@ -1,6 +1,4 @@
 - 📛  Hi, I’m Marcus!
-- 👀  I’m interested in Frontend Development
-- 🌱  I’m currently working with React.js + Typescript
 - ☎️  How to reach me +46722537708 or marcus.w.almqvist@gmail.com
 
 <!---
